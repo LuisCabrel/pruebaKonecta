@@ -1,0 +1,2 @@
+# pruebaKonecta
+examen de programacion
